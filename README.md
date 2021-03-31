@@ -1,7 +1,7 @@
 # Filtros_FIR_Ejercicio2
 Procesado de Señales Multimedia.
 
-Ficheros:
+Ficheros .m:
 
     mostrarFiltrosFIRCasa.m    
     analizaFiltro_FIR_Casa.m    
